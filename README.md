@@ -1,5 +1,5 @@
 # matrix-decompositions
-QR and LU decomposition
+**QR and LU decomposition**
 
 Description of the various scripts are as below:
 
